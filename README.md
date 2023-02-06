@@ -4,4 +4,4 @@ Dans cette formation vous apprendrez à manipuler git avec la ligne de commande 
 
 ## Les sessions de formations
 
-- [Session du 06/02/2023 au 09/02/2023]()
+- [Session du 06/02/2023 au 09/02/2023](https://github.com/Djeg/formation-git/tree/session/06-02-23/09-02-23)
